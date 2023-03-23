@@ -9,3 +9,8 @@ Implementation of an IoT device that allows monitoring variables of the elderly 
 * Protoboard 
 * Jumpers
 * LED
+
+
+## Technologies:
+
+Use `SQL` to create the database and manage the queries.
