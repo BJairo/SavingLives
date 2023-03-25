@@ -14,4 +14,4 @@ Implementation of an IoT device that allows monitoring variables of the elderly 
 ## Technologies:
 
 Use `SQL` to create the database and manage the queries. To manage the sistem use `MySQL` and `phpMyAdmin` for 
-administration `MySQL`. Finally, to create the connection between software and hardware, Arduinois used.
+administration `MySQL`. Finally, to create the connection between software and hardware, `Arduino` is used.
